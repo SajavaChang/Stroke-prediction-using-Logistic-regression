@@ -55,6 +55,7 @@ Compared with statistics concerned with the influencing factors of dependent var
   * The picture below is "Boxplots for Age and Categorical Variables", shows that age is significantly different between the group means of these variables <br>
 ![Boxplots for Age and Categorical Variables](https://github.com/SajavaChang/Stroke-prediction-using-Logistic-regression/blob/main/Boxplots%20for%20Age%20and%20Categorical%20Variables.png)
 * Obviously, if the researcher has no domain knowledge, it is sometimes difficult to judge whether the model results are reasonable
+* Suggestions for future research: Study different age groups separately, such as stroke prediction in prime adults (25-44 years old). At this point, there is no need to put the variable "age" in the model.
 
 **From a Statistical Perspective Model**
 * In terms of model results, the accuracy of the model is 78.19%, CI : 2.92%
