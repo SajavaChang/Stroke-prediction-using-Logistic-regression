@@ -61,6 +61,6 @@ Stroke prediction using Logistic regression from both Statistical and Machine Le
 * Tip for future researchers: Study different age groups separately, for example "stroke prediction in prime adults (25-44 year-old)". At this point, there is no need to put the variable "age" in the model.
 
 
-### From a Statistical Perspective Model
+### From a ML Perspective Model
 * Compared with statistics concerned with the influencing factors of dependent variable, machine learning focuses almost entirely on **the accuracy of predictions**. Statistical methods use the P value to determine the significance of an independent variables, whereas machine learning does not care about the P value. Instead, I think we can standardize the independent variables and judge the sensitivity of the independent variable to the dependent variable by the absolute value of the estimated coefficient of the model.
 * In terms of model results, the accuracy of the model is 78.19%, CI : 2.92%
